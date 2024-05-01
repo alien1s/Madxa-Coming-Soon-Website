@@ -1,0 +1,40 @@
+#headline {
+  width: 100%;
+}
+#headline h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #062b49;
+  font-size: 40px;
+  font-weight: 900;
+  background-color: #0eab79;
+  width: 100%;
+  /* box-shadow: 8px 8px 20px #0a5f44; */
+   /* background: linear-gradient(180deg, #0eab79, #0a5f44); */
+}
+
+#hero {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.image-container {
+  width: 40%;
+  height: 50%;
+  margin: auto;
+}
+
+.image-container img {
+  width: 100%;
+  margin-top: -10%;
+}
+
+.image-container h2 {
+  margin: -2%;
+  margin-bottom: 8%;
+  font-weight: bolder;
+  font-size: xx-large;
+  text-transform: uppercase;
+}
+

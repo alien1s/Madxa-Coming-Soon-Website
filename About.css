@@ -1,0 +1,24 @@
+#headline {
+  width: 100%;
+}
+#headline h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: 900;
+  background-color: #0eab79;
+  width: 100%;
+  box-shadow: 8px 8px 30px #5effcc;
+  /* background: linear-gradient(180deg, #0eab79, #0a5f44); */
+}
+
+main {
+  align-items: center;
+  text-align: center;
+}
+
+.cover-container img {
+  width: 100%;
+  margin-top: -2.5%;
+}
